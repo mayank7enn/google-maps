@@ -1,0 +1,17 @@
+frontend/
+├── public/
+│   └── index.html
+├── src/
+│   ├── components/
+│   │   ├── MapComponent.jsx
+│   │   ├── DriverStatus.jsx
+│   │   └── RouteDetails.jsx
+│   ├── context/
+│   │   └── LocationContext.js
+│   ├── services/
+│   │   └── api.js
+│   ├── App.js
+│   ├── index.js
+│   └── styles.css
+├── package.json
+└── README.md

@@ -1,0 +1,20 @@
+backend/
+├── controllers/
+│   ├── driverController.js
+│   ├── routeController.js
+│   └── notificationController.js
+├── models/
+│   ├── Driver.js
+│   ├── Route.js
+│   └── Geofence.js
+├── routes/
+│   ├── driverRoutes.js
+│   ├── routeRoutes.js
+│   └── notificationRoutes.js
+├── utils/
+│   ├── geofencingUtils.js
+│   └── distanceUtils.js
+├── .env
+├── app.js
+├── package.json
+└── README.md
